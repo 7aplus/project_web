@@ -5,7 +5,7 @@ jQuery(document).ready(function() {
         Fullscreen background
     */
     $.backstretch([
-                    "assets/img/backgrounds/物保险-64705042.jpg"
+                    "assets/img/backgrounds/jonathan-bean-1328393-unsplash.jpg"
 	             ], {duration: 3000, fade: 750});
     
     /*

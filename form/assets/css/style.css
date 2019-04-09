@@ -23,6 +23,11 @@ p{
 	left: 50%;
 }
 
+input[name="type"]{
+	display:inline;
+	width: 20%;
+}
+
 strong { font-weight: 500; }
 
 a, a:hover, a:focus {
